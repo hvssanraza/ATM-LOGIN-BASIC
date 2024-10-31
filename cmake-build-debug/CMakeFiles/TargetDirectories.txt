@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/ATM LOGIN BASIC/cmake-build-debug/CMakeFiles/Lab_Task_6.dir
+C:/Users/HP/CLionProjects/ATM LOGIN BASIC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/ATM LOGIN BASIC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
